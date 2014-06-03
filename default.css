@@ -1,0 +1,127 @@
+﻿body {
+    font-family:'Segoe UI';
+    font-size:20px;
+    background:white;
+    padding:10px;
+    max-width:1700px;
+    margin:0 auto;
+}
+
+h1,
+h2{
+    color:#194B80;
+    font-family:Moire;
+}
+
+    .allContent {
+    }
+
+        .headDiv {
+            height:150px;
+        }
+        
+        img#logo1{
+            width:300px;
+            float:left;
+        }
+
+        header{
+            /*border:1px solid blue;*/
+        }
+
+            header nav{
+                text-align:right;
+            }
+
+            header nav ul{                
+            }
+
+            header nav ul li{
+                list-style:none;
+                display:inline-block;
+                font-size:21px;
+                margin:10px;
+            }
+
+            header nav ul li a{
+                color:#194B80;
+                text-decoration:none;
+            }
+
+            
+
+    .mid1Div{
+        height:400px;
+        width:100%;
+        float:left;
+    }
+
+        .mid1DivContent{
+            height: 400px;
+            background-color:#7eadf8;
+            border:3px outset #7eadf8;
+        }
+
+    .mid2Div{
+        min-height:700px;
+        width:100%;
+        float:left;
+        margin-top:50px;
+    }
+
+        .mid2DivContent{
+            padding:20px;
+        }
+
+            .mid2DivContent h1{
+                text-align:right;
+            }
+
+            .mid2DivContent p{
+            }
+
+    .footer{
+        width:100%;
+        float:left;
+        clear:both;
+        margin-top:50px;
+    }
+
+         .footer nav{
+             width:350px;
+             float:left;
+             max-height:300px;
+         }
+
+             .footer nav ul{
+             }
+
+                .footer nav ul li{
+                    font-size:13px;
+                }
+
+        .footer .footInfo{
+            float:left;
+            
+            text-align:center;
+        }
+
+        .footer .footInfo .footClass{
+            float:left;
+            margin:0 50px;
+        }
+
+        .footer p{
+        }
+
+        .footer img{
+            float:right;
+            width:150px;
+        }
+
+
+
+
+
+
+
