@@ -81,7 +81,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .content-section-a {
 	background-color: #f8f8f8;
-	padding: 50px 0;
+	padding: 150px 0;
 }
 
 .content-section-b {
@@ -110,6 +110,9 @@ body, h1, h2, h3, h4, h5, h6 {
 	padding-top: 2%;
 	padding-bottom:2%;
 	color: #f8f8f8;
+	background-image: url('../img/banner-bgb.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 .banner h2 {
