@@ -134,20 +134,33 @@ body, h1, h2, h3, h4, h5, h6 {
 	ul.banner-social-buttons {
 		float: left;
 		margin-top: 15px;
-	}	
+	}
+	
+	.social-buttons{
+		width:480px;
+		margin:0 auto;
+	}
+	
 }
 
 @media (max-width: 767px) {
+	.banner{
+
+	}
 	.banner h2 {
 		margin: 0;
 		text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 		font-size: 3em;
 	}
-
+	
+	.social-buttons{
+		width:200px;
+		margin:0 auto;
+	}
+	
 	ul.banner-social-buttons > li {
 		display: block;
 		margin-bottom: 20px;
-		padding: 0;
 	}
 
 	ul.banner-social-buttons > li:last-child {
