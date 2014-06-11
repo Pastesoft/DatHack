@@ -107,11 +107,9 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .banner {
-	padding-top: 20%;
-	padding-bottom:20%;
+	padding-top: 2%;
+	padding-bottom:2%;
 	color: #f8f8f8;
-	background: url(../img/banner-bgb.jpg) no-repeat 100% 100%;
-	background-size: cover;
 }
 
 .banner h2 {
